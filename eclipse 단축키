@@ -1,0 +1,3 @@
+ctrl + enter 
+sysout 입력 후 ctrl + enter = System.out.println("");
+ctrl + F11 = run (실행)
