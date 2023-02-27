@@ -1,3 +1,6 @@
 ctrl + enter 
 sysout 입력 후 ctrl + enter = System.out.println("");
 ctrl + F11 = run (실행)
+
+// class 생성 할 때 첫글자는 대문자로
+// project 생성한 후에는 main 입력 후 ctrl + enter
